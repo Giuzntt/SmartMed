@@ -1,0 +1,1 @@
+Sobre a importância do Cloud Computing e a BUSINESS INTELLIGENCE (BI) no projeto
