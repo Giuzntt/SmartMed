@@ -4,4 +4,4 @@
 
 
 
-[![Watch the video](https://github.com/Giuzntt/SmartMed/blob/master/SMARTMED.png)](https://youtu.be/vG5oZMkzJ5U) 
+[![Watch the video](https://img.youtube.com/vi/vG5oZMkzJ5U/maxresdefault.jpg)](https://youtu.be/vG5oZMkzJ5U)
