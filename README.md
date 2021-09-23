@@ -1,5 +1,5 @@
-#Bem-vindo ao meu repositório da SmartMed
-##Segue o vídeo do pitch do nosso projeto:
+# Bem-vindo ao meu repositório da SmartMed
+## Segue o vídeo do pitch do nosso projeto:
 
 
 
